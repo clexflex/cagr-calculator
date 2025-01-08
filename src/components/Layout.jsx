@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
               <Link to="/cagr" className="hover:text-blue-200 px-3 py-2">CAGR Calculator</Link>
               
               <a 
-                href="https://www.linkedin.com/in/yashraj-gupta" 
+                href="https://www.linkedin.com/in/yashrajghosalkar/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="hover:text-blue-200 px-3 py-2"
@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
               </a>
               
               <a 
-                href="https://github.com/Yash-Gupta13" 
+                href="https://github.com/clexflex/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="hover:text-blue-200 px-3 py-2"
@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
               </a>
               
               <a 
-                href="https://yashraj-portfolio.vercel.app/" 
+                href="https://drive.google.com/file/d/1z__OPFr6QBEDA3_bDS7Hmv25mYplCCcv/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="hover:text-blue-200 px-3 py-2"
